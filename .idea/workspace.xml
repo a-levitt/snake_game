@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f6a8f26e-790e-4ce8-9fe6-840a06240eec" name="Changes" comment="Setup screen and snake fragments">
+    <list default="true" id="f6a8f26e-790e-4ce8-9fe6-840a06240eec" name="Changes" comment="Moving the snake">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
@@ -50,11 +50,20 @@
       <option name="project" value="LOCAL" />
       <updated>1715775653079</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Moving the snake">
+      <option name="closed" value="true" />
+      <created>1715778593908</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1715778593908</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Setup screen and snake fragments" />
-    <option name="LAST_COMMIT_MESSAGE" value="Setup screen and snake fragments" />
+    <MESSAGE value="Moving the snake" />
+    <option name="LAST_COMMIT_MESSAGE" value="Moving the snake" />
   </component>
 </project>
