@@ -2,6 +2,8 @@ from turtle import Turtle
 
 START_POSITIONS = [(0, 0), (-20, 0), (-40, 0)]
 MOVE_DISTANCE = 20
+MAX_SPEED = 0.001
+SPEED_INCREASING_STEP = 0.01
 UP = 90
 DOWN = 270
 LEFT = 180
@@ -12,7 +14,14 @@ class Snake:
         self.segments = []
         self.create_snake()
         self.head = self.segments[0]
-        self.snake_speed = 0.2
+        self.snake_speed = 0.3
+
+    def increase_speed(self):
+        if self.snake_speed <= MAX_SPEED:
+            pass
+        else:
+            self.snake_speed -= SPEED_INCREASING_STEP
+            return self.snake_speed
 
     def create_snake(self):
         for position in START_POSITIONS:
