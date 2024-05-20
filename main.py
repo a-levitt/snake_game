@@ -38,4 +38,5 @@ while game_loop:
         scoreboard.game_over()
 
 
+
 screen.exitonclick()
