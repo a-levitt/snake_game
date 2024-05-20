@@ -12,6 +12,7 @@ class Snake:
         self.segments = []
         self.create_snake()
         self.head = self.segments[0]
+        self.snake_speed = 0.2
 
     def create_snake(self):
         for position in START_POSITIONS:

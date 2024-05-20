@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f6a8f26e-790e-4ce8-9fe6-840a06240eec" name="Changes" comment="Implementing snake movement">
+    <list default="true" id="f6a8f26e-790e-4ce8-9fe6-840a06240eec" name="Changes" comment="Creating a Food class, adding food instances to the game">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/snake.py" beforeDir="false" afterPath="$PROJECT_DIR$/snake.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,6 +16,20 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "a-levitt"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="2f2889f5-5c39-4bc1-9f14-2d912eee19d6" />
+        <option name="url" value="https://github.com/a-levitt/snake_game.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 8
@@ -74,13 +89,22 @@
       <option name="project" value="LOCAL" />
       <updated>1715783640408</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Creating a Food class, adding food instances to the game">
+      <option name="closed" value="true" />
+      <created>1716203785080</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1716203785080</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Setup screen and snake fragments" />
     <MESSAGE value="Moving the snake" />
     <MESSAGE value="Implementing snake movement" />
-    <option name="LAST_COMMIT_MESSAGE" value="Implementing snake movement" />
+    <MESSAGE value="Creating a Food class, adding food instances to the game" />
+    <option name="LAST_COMMIT_MESSAGE" value="Creating a Food class, adding food instances to the game" />
   </component>
 </project>
